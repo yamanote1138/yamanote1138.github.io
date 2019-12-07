@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yamanote1138
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thechad.io
+  * I am yamanote1138 (https://keybase.io/yamanote1138) on keybase.
+  * I have a public key ASBg0y8tTzem7EzsrS7kAmNr1eG328-v7idCOQqYy16ySwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012060d32f2d4f37a6ec4cecad2ee402636bd5e1b7dbcfafee2742390a98cb5eb24b0a",
+      "host": "keybase.io",
+      "kid": "012060d32f2d4f37a6ec4cecad2ee402636bd5e1b7dbcfafee2742390a98cb5eb24b0a",
+      "uid": "d1c1b2e1abf4d82e4951bcce2dcc3519",
+      "username": "yamanote1138"
+    },
+    "merkle_root": {
+      "ctime": 1532041063,
+      "hash": "a0d255001a4a5a0aa70c5d7a0311789b55c35bcdb15bfc8bf27a2713a180d03cd17d87db369207eb7f88bdebaafea5ea75b3b81bc6e0ff2a542818f623fd2247",
+      "hash_meta": "1dc766b079063ae055dfe1127e5a9ca28837c1e1287a3b2b3c95fcaf0661b457",
+      "seqno": 3295883
+    },
+    "service": {
+      "entropy": "GTv0GTuPvNQM+xapwNV5JIzg",
+      "hostname": "thechad.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532041075,
+  "expire_in": 504576000,
+  "prev": "b8ca0f27d79e813f9e40256683d57e827db3e228185a06c4198f9b2d55a2f6ca",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYNMvLU83puxM7K0u5AJja9Xht9vPr+4nQjkKmMtesksKp3BheWxvYWTESpcCCsQguMoPJ9eegT+eQCVmg9V+gn2z4igYWgbEGY+bLVWi9srEIMuIxitzQ6TEGKg2wjRctcrJD1Q9iRfpvPh7Ne1+VgfVAgHCo3NpZ8RAI068l/tOUtT9H0g55S2aHPgWTlYOuwWhKVqe8WqNYeN4zGpegOLfoTXKT9h2tnoj2jj1s8STWrphCahX4MrdDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBirnl7MbVjT6PijKPchrevpp0j9l26xWqUlvcVBepWHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yamanote1138
+
+==================================================================
