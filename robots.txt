@@ -3,4 +3,3 @@ Disallow: /css/*
 Disallow: /dist/*
 Disallow: /img/*
 Disallow: /js/*
-Disallow: /buildinfo
